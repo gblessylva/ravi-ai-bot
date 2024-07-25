@@ -105,15 +105,14 @@ function chatbot_options_page() {
 				<div class="logo-container">
 					<a href="https://www.chatbase.co/" target="_blank">
 						<img alt="Ravi Chatbot" loading="lazy" width="64" style="color:transparent"
-							src="https://www.chatbase.co/images/chatbase-logo.svg">
-					</a>
+							src="<?php echo plugin_dir_url( __FILE__ ) . 'assets/images/ai-bot.jpg'; ?>"></a>
 				</div>
 				<div class="form-group">
 					<label for="chatbot_id" class="text-secondary">Chatbot ID</label>
 					<input type="text" class="form-control" placeholder="Chatbot ID" name="chatbot_id" id="chatbot_id"
 						value="<?php echo esc_attr( get_option( 'chatbot_id' ) ); ?>" required />
 				</div>
-				<label class="note-label">*Note: Copy your Chatbot ID from <a href="https://www.chatbase.co/"
+				<label class="note-label">*Note: Yopu can find your Chatbot ID on <a href="https://www.chatbase.co/"
 						target="_blank">Ravi Chatbot</a> chatbot settings tab.</label>
 				<div class="submit-btn-container">
 					<?php submit_button(); ?>
