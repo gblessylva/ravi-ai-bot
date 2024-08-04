@@ -1,22 +1,22 @@
-# Ravi Chatbot
+# Igenchat
 
 **Contributors:** gblessylva  
-**Tags:** chatbot, Ravi Chatbot, embed chatbot, AI, WordPress  
+**Tags:** chatbot, Igenchat, embed chatbot, AI, WordPress  
 **Requires at least:** 5.0  
 **Tested up to:** 6.2  
 **Stable tag:** 1.0.3  
 **License:** GPLv2 or later  
 **License URI:** https://www.gnu.org/licenses/gpl-2.0.html
 
-Embed your Ravi Chatbot on any WordPress site.
+Embed your Igenchat on any WordPress site.
 
 ## Description
 
-The Ravi Chatbot plugin allows you to easily embed your Ravi Chatbot on your WordPress site. By providing a simple and intuitive interface, you can configure your chatbot ID and have your chatbot live on your site within minutes.
+The Igenchat plugin allows you to easily embed your Igenchat on your WordPress site. By providing a simple and intuitive interface, you can configure your chatbot ID and have your chatbot live on your site within minutes.
 
 ### Features
 
-- Easy integration of Ravi Chatbot.
+- Easy integration of Igenchat.
 - Simple configuration via the WordPress admin panel.
 - Responsive design ensuring your chatbot looks great on all devices.
 - Secure settings management with WordPress native options API.
@@ -33,25 +33,25 @@ The Ravi Chatbot plugin allows you to easily embed your Ravi Chatbot on your Wor
 ### Installation via WordPress Admin Panel
 
 1. Navigate to `Plugins > Add New` in the WordPress admin panel.
-2. Search for "Ravi Chatbot".
+2. Search for "Igenchat".
 3. Click on `Install Now` and then activate the plugin.
 
 ## Usage
 
-1. After activating the plugin, go to `WP Admin > Ravi Chatbot`.
+1. After activating the plugin, go to `WP Admin > Igenchat`.
 2. Enter your Chatbot ID in the provided field.
 3. Click `Save Changes` to store your settings.
-4. Your Ravi Chatbot is now embedded and live on your site.
+4. Your Igenchat is now embedded and live on your site.
 
 ## Frequently Asked Questions
 
 ### Where can I find my Chatbot ID?
 
-You can find your Chatbot ID in the settings tab of your Ravi Chatbot account on the Ravi Bot website.
+You can find your Chatbot ID in the settings tab of your Igenchat account on the Ravi Bot website.
 
 ### How do I update the chatbot settings?
 
-Navigate to `WP Dashboard > Ravi Chatbot` in your WordPress admin panel. You can update your Chatbot ID and click `Save Changes` to apply the new settings.
+Navigate to `WP Dashboard > Igenchat` in your WordPress admin panel. You can update your Chatbot ID and click `Save Changes` to apply the new settings.
 
 ### The chatbot is not appearing on my site. What should I do?
 
@@ -67,7 +67,7 @@ Navigate to `WP Dashboard > Ravi Chatbot` in your WordPress admin panel. You can
 ## Changelog
 
 ### 1.0.3
-- Initial release of Ravi Chatbot plugin.
+- Initial release of Igenchat plugin.
 
 ## Upgrade Notice
 
